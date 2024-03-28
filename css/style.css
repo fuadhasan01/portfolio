@@ -511,6 +511,22 @@ section{
     padding-top: .5rem;
 }
 
+/* Pojects css code  */
+#projects .education-content .content span{
+    font-size: 1.2rem;
+    color: var(--main-color);
+}
+#projects .education-content .content p{
+    font-size: 1rem;
+    padding-top: .5rem;
+}
+#projects .education-content .content p a{
+    color: green;
+    text-decoration: underline;
+    font-size: 1.2rem;
+
+}
+
 .skills{
     min-height: auto;
     padding-bottom: 7rem;
